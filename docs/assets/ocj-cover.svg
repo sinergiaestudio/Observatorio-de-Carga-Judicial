@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="480" viewBox="0 0 1440 480" role="img" aria-labelledby="title desc">
+<title id="title">OCJ · Observatorio de Carga Judicial</title><desc id="desc">Portada azul noche y dorado. Información para comprender la actividad judicial. Diseño abstracto sin datos estadísticos.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1527"/><stop offset="1" stop-color="#192b43"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#b8c9dd" stroke-opacity=".055"/></pattern></defs>
+<rect width="1440" height="480" rx="20" fill="url(#bg)"/><rect width="1440" height="480" rx="20" fill="url(#grid)"/>
+<path d="M64 67H129" stroke="#c7a66c" stroke-width="4"/><text x="150" y="74" fill="#c7a66c" font-size="17" font-family="Arial,sans-serif" letter-spacing="4">DATOS · CONTEXTO · CRITERIO</text>
+<text x="64" y="179" fill="#f5f1e9" font-size="77" font-family="Georgia,serif">OCJ</text>
+<text x="64" y="248" fill="#f5f1e9" font-size="45" font-family="Georgia,serif">Observatorio de</text>
+<text x="64" y="302" fill="#f5f1e9" font-size="45" font-family="Georgia,serif">Carga Judicial</text>
+<text x="66" y="357" fill="#bbc8d9" font-size="21" font-family="Arial,sans-serif">Información para comprender la actividad judicial.</text>
+<path d="M66 399H764" stroke="#c7a66c" stroke-opacity=".35"/>
+<text x="66" y="435" fill="#94a7bf" font-size="14" font-family="Arial,sans-serif" letter-spacing="2">OBSERVAR CON RIGOR. INTERPRETAR CON CONTEXTO.</text>
+<g transform="translate(1075 235)" fill="none"><circle r="154" stroke="#c7a66c" stroke-opacity=".25"/><circle r="116" stroke="#c7a66c" stroke-opacity=".5"/><circle r="78" stroke="#bcc9d9" stroke-opacity=".2"/><path d="M-182 0H182M0-182V182" stroke="#bcc9d9" stroke-opacity=".15"/><path d="M-64 47V-5M-23 47V-45M18 47V-22M59 47V-69" stroke="#c7a66c" stroke-width="17"/><path d="M-82 68H81" stroke="#c7a66c" stroke-width="2"/><circle cx="109" cy="-109" r="6" fill="#c7a66c"/></g>
+</svg>
